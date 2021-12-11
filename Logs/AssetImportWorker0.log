@@ -110,7 +110,7 @@ Domain Reload Profiling:
 				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (7ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
@@ -139,28 +139,6 @@ Received Import Request.
   path: Assets/Resources/Anchor.png
   artifactKey: Guid(80b56d59065d5064fac0f4e5f4247037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Resources/Anchor.png using Guid(80b56d59065d5064fac0f4e5f4247037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd048ecb6f967d0f9ffd3e845fe4003e2') in 0.059347 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 56.329115 seconds.
-  path: Assets/Resources/Anchor.png
-  artifactKey: Guid(80b56d59065d5064fac0f4e5f4247037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Anchor.png using Guid(80b56d59065d5064fac0f4e5f4247037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1edec9f0b66f51c13f86c54769ad0e8b') in 0.049154 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 11.643059 seconds.
-  path: Assets/Resources/Anchor.png
-  artifactKey: Guid(80b56d59065d5064fac0f4e5f4247037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Anchor.png using Guid(80b56d59065d5064fac0f4e5f4247037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '919f530b4a9a886ad91b583cc299d951') in 0.009932 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 10.819919 seconds.
-  path: Assets/Resources/Chain12PM.png
-  artifactKey: Guid(24228fa824aa7ba4ab36ac5a366bc3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Chain12PM.png using Guid(24228fa824aa7ba4ab36ac5a366bc3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73914ac5b80dc3e6e90ec7abfc96df95') in 0.016321 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006928 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\sskillman\Documents\GitHub\gamejam2021-ball-of-terror\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\sskillman\Documents\GitHub\gamejam2021-ball-of-terror\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
