@@ -1017,8 +1017,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 469211772}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.71, y: -0.03, z: 42.04}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.71, y: -0.03, z: 60.15}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -3129,6 +3129,56 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7847366cc3f0e5a44832a9f916f3adb8, type: 3}
+--- !u!1 &2078108270
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2078108272}
+  - component: {fileID: 2078108271}
+  m_Layer: 0
+  m_Name: Flock (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2078108271
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2078108270}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1379ccfdaad985340b8598a971d4bad8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AgentPrefab: {fileID: -5135712981599521758, guid: 10f36a1622c018c4c88068a1121be409, type: 3}
+  Behaviour: {fileID: 11400000, guid: a7bf4b6d1b8d1314f857d5780cf38050, type: 2}
+  StartingCount: 250
+  DriveFactor: 10
+  MaxSpeed: 5
+  NeighbourRadius: 1.5
+  AvoidanceRadiusMultiplier: 0.5
+--- !u!4 &2078108272
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2078108270}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.71, y: -0.03, z: 74.3}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 17
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &2083221443 stripped
 Rigidbody2D:
   m_CorrespondingSourceObject: {fileID: 6168633518153924003, guid: 10f36a1622c018c4c88068a1121be409, type: 3}

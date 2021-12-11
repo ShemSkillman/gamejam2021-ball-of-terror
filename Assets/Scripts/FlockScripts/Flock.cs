@@ -46,7 +46,10 @@ public class Flock : MonoBehaviour
 
     private void Update()
     {
-        foreach(FlockAgent agent in _agents)
+
+        transform.position = new Vector3(transform.position.x, transform.position.y, 150f);
+
+        foreach (FlockAgent agent in _agents)
         {
             List<Transform> context = GetNearbyObjects(agent);
             Vector2 move = Behaviour.CalculateMove(agent, context, this);
