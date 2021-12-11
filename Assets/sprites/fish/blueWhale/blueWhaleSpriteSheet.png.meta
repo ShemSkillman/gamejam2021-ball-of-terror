@@ -1,12 +1,57 @@
 fileFormatVersion: 2
 guid: 9fe3e9063217a7441a5bb52aa4a0a6aa
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -5749332543592238414
+    second: blueWhaleSpriteSheet_0
+  - first:
+      213: -3506360038491673549
+    second: blueWhaleSpriteSheet_1
+  - first:
+      213: -1630287900946894663
+    second: blueWhaleSpriteSheet_2
+  - first:
+      213: -1087696621628219797
+    second: blueWhaleSpriteSheet_3
+  - first:
+      213: 5438248753727850655
+    second: blueWhaleSpriteSheet_4
+  - first:
+      213: 5087175528851567076
+    second: blueWhaleSpriteSheet_5
+  - first:
+      213: 3871084708780635916
+    second: blueWhaleSpriteSheet_6
+  - first:
+      213: -5261679935793639994
+    second: blueWhaleSpriteSheet_7
+  - first:
+      213: -8461127205075743349
+    second: blueWhaleSpriteSheet_8
+  - first:
+      213: -8021745933897851507
+    second: blueWhaleSpriteSheet_9
+  - first:
+      213: -375475110977807181
+    second: blueWhaleSpriteSheet_10
+  - first:
+      213: 6774981373245841960
+    second: blueWhaleSpriteSheet_11
+  - first:
+      213: 5348204412534556852
+    second: blueWhaleSpriteSheet_12
+  - first:
+      213: -7605170872851172716
+    second: blueWhaleSpriteSheet_13
+  - first:
+      213: -3621624173031139142
+    second: blueWhaleSpriteSheet_14
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -35,13 +80,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
+    wrapU: 1
+    wrapV: 1
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -50,9 +95,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -75,13 +120,376 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: blueWhaleSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6810
+        width: 2054
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2779b43844630b0800000000000000
+      internalID: -5749332543592238414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueWhaleSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 6810
+        width: 1996
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c241b5f18e65fc0800000000000000
+      internalID: -3506360038491673549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueWhaleSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 4154
+        y: 6810
+        width: 1996
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0717eaacd0069e0800000000000000
+      internalID: -1630287900946894663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueWhaleSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 6810
+        width: 1990
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e157c7fa9b7e0f0800000000000000
+      internalID: -1087696621628219797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueWhaleSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4762
+        width: 2054
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98c82ead6a887b40800000000000000
+      internalID: 5438248753727850655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueWhaleSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 4762
+        width: 2060
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1f143c037499640800000000000000
+      internalID: 5087175528851567076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueWhaleSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 4762
+        width: 2060
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07f052680bd8b530800000000000000
+      internalID: 3871084708780635916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueWhaleSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 6138
+        y: 4762
+        width: 2054
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd4839d9f1caf6b0800000000000000
+      internalID: -5261679935793639994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueWhaleSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2714
+        width: 2054
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d011ec2a9049a80800000000000000
+      internalID: -8461127205075743349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueWhaleSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 2714
+        width: 2060
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d959bf2980da090800000000000000
+      internalID: -8021745933897851507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueWhaleSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 2714
+        width: 2028
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcda2c306b0acaf0800000000000000
+      internalID: -375475110977807181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueWhaleSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 6170
+        y: 2714
+        width: 2022
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822e430e9a1950e50800000000000000
+      internalID: 6774981373245841960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueWhaleSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 666
+        width: 2028
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b88c43c393a83a40800000000000000
+      internalID: 5348204412534556852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueWhaleSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 666
+        width: 2028
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492fe839261057690800000000000000
+      internalID: -7605170872851172716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueWhaleSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 666
+        width: 2028
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8d288b0086dbdc0800000000000000
+      internalID: -3621624173031139142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 

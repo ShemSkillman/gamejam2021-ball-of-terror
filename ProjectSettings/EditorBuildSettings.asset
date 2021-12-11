@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Basic Anchor SS.unity
+    guid: a31088a61658832428829483c30c3b84
   m_configObjects: {}
