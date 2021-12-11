@@ -106,7 +106,7 @@ MonoBehaviour:
   health: 10
   rb: {fileID: 0}
   directionChangeTime: 6
-  destroyFX: {fileID: 0}
+  destroyFX: {fileID: 7630529696519879893, guid: 2e4c56a44c76ec041b8d5424f6b3ef51, type: 3}
 --- !u!50 &2587678331391364809
 Rigidbody2D:
   serializedVersion: 4
