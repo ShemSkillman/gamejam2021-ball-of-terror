@@ -102,7 +102,7 @@ MonoBehaviour:
   moveSpeed: 7
   rotationSpeed: 10
   waitTime: 3
-  health: 5
+  health: 50
   rb: {fileID: 0}
   directionChangeTime: 3
   destroyedFX: {fileID: 7630529696519879893, guid: 16ed7da75cf5610478aa7043037627ae, type: 3}

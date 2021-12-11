@@ -7,12 +7,12 @@ public class PufferFish : MonoBehaviour
     [SerializeField] private float moveSpeed, rotationSpeed, waitTime = 3f;
     [SerializeField] private int health;
     [SerializeField] private Rigidbody2D rb;
+    private float directionChangeCount;
     [SerializeField]private float directionChangeTime = 5f;
-    [SerializeField] private GameObject destroyedFX;
-
     private bool facingRight;
     private SpriteRenderer sr;
-    private float directionChangeCount;
+    
+
 
     private void Start()
     {
@@ -63,7 +63,7 @@ public class PufferFish : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
-        health -= damage;
+
 
         if (health <= 0)
         {
@@ -74,10 +74,9 @@ public class PufferFish : MonoBehaviour
 
     void JustDie()
     {
-        Instantiate(destroyedFX, transform.position, destroyedFX.transform.rotation);
         sr.flipY = true;
         rb.velocity = new Vector2(0f, moveSpeed);
-        Destroy(gameObject);
+        Destroy(gameObject, 2f);
     }
 
 
