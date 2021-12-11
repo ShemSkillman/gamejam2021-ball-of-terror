@@ -1,55 +1,49 @@
 fileFormatVersion: 2
-guid: 8f40c9ddd908828439dd2e23f42997be
+guid: dc6d8dab5e922c34f9e4d221c79e5cc1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8075333845972580204
-    second: BOT UI DamageGauge_0
+      213: -1994960574610871442
+    second: BOT UI FuelGauge 1_0
   - first:
-      213: -4983456318015822771
-    second: BOT UI DamageGauge_1
+      213: 6170772540930058070
+    second: BOT UI FuelGauge 1_1
   - first:
-      213: 448302695496794523
-    second: BOT UI DamageGauge_2
+      213: 6428975817632647267
+    second: BOT UI FuelGauge 1_2
   - first:
-      213: -1755250760250711539
-    second: BOT UI DamageGauge_3
+      213: 4878508362858052962
+    second: BOT UI FuelGauge 1_3
   - first:
-      213: 4419891249425402394
-    second: BOT UI DamageGauge_4
+      213: 2166886791041748390
+    second: BOT UI FuelGauge 1_4
   - first:
-      213: 7763879997648328017
-    second: BOT UI DamageGauge_5
+      213: -8689610450670473978
+    second: BOT UI FuelGauge 1_5
   - first:
-      213: 385842930637647785
-    second: BOT UI DamageGauge_6
+      213: -8462834304932040005
+    second: BOT UI FuelGauge 1_6
   - first:
-      213: -2364420173109069816
-    second: BOT UI DamageGauge_7
+      213: 1414080658253425560
+    second: BOT UI FuelGauge 1_7
   - first:
-      213: 4222647475780248113
-    second: BOT UI DamageGauge_8
+      213: -2474490438034280482
+    second: BOT UI FuelGauge 1_8
   - first:
-      213: -1648688041398036912
-    second: BOT UI DamageGauge_9
+      213: -5330420054101235248
+    second: BOT UI FuelGauge 1_9
   - first:
-      213: -3214689393871072338
-    second: BOT UI DamageGauge_10
+      213: 3456274646012781487
+    second: BOT UI FuelGauge 1_10
   - first:
-      213: 6914360704374191648
-    second: BOT UI DamageGauge_11
+      213: 4824030059702636730
+    second: BOT UI FuelGauge 1_11
   - first:
-      213: 1702279430488697251
-    second: BOT UI DamageGauge_12
+      213: 5509910730839841939
+    second: BOT UI FuelGauge 1_12
   - first:
-      213: 2052621103805279860
-    second: BOT UI DamageGauge_13
-  - first:
-      213: 7734523014721031318
-    second: BOT UI DamageGauge_14
-  - first:
-      213: -4019428149417524688
-    second: BOT UI DamageGauge_15
+      213: 6110265891062638329
+    second: BOT UI FuelGauge 1_13
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -175,13 +169,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BOT UI DamageGauge_0
+      name: BOT UI FuelGauge 1_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 594
-        width: 99
-        height: 594
+        y: 630
+        width: 144
+        height: 630
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,20 +183,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c6772e31959511070800000000000000
-      internalID: 8075333845972580204
+      spriteID: e6be8695de97054e0800000000000000
+      internalID: -1994960574610871442
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BOT UI DamageGauge_1
+      name: BOT UI FuelGauge 1_1
       rect:
         serializedVersion: 2
-        x: 99
-        y: 594
-        width: 99
-        height: 594
+        x: 144
+        y: 630
+        width: 144
+        height: 630
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,20 +204,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d44adfad1e437dab0800000000000000
-      internalID: -4983456318015822771
+      spriteID: 657eedb8eecf2a550800000000000000
+      internalID: 6170772540930058070
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BOT UI DamageGauge_2
+      name: BOT UI FuelGauge 1_2
       rect:
         serializedVersion: 2
-        x: 198
-        y: 594
-        width: 99
-        height: 594
+        x: 288
+        y: 630
+        width: 144
+        height: 630
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,20 +225,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b91cfe42de0b83600800000000000000
-      internalID: 448302695496794523
+      spriteID: 3680297a17f483950800000000000000
+      internalID: 6428975817632647267
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BOT UI DamageGauge_3
+      name: BOT UI FuelGauge 1_3
       rect:
         serializedVersion: 2
-        x: 297
-        y: 594
-        width: 99
-        height: 594
+        x: 432
+        y: 630
+        width: 144
+        height: 630
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,20 +246,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d02a587bbb814a7e0800000000000000
-      internalID: -1755250760250711539
+      spriteID: 26d3de13281f3b340800000000000000
+      internalID: 4878508362858052962
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BOT UI DamageGauge_4
+      name: BOT UI FuelGauge 1_4
       rect:
         serializedVersion: 2
-        x: 396
-        y: 594
-        width: 99
-        height: 594
+        x: 576
+        y: 630
+        width: 144
+        height: 630
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -273,20 +267,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1acbdb7cab965d30800000000000000
-      internalID: 4419891249425402394
+      spriteID: 6ad87884e04521e10800000000000000
+      internalID: 2166886791041748390
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BOT UI DamageGauge_5
+      name: BOT UI FuelGauge 1_5
       rect:
         serializedVersion: 2
-        x: 495
-        y: 594
-        width: 99
-        height: 594
+        x: 720
+        y: 630
+        width: 144
+        height: 630
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,20 +288,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 155d69a19b7debb60800000000000000
-      internalID: 7763879997648328017
+      spriteID: 60da34ba55d486780800000000000000
+      internalID: -8689610450670473978
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BOT UI DamageGauge_6
+      name: BOT UI FuelGauge 1_6
       rect:
         serializedVersion: 2
-        x: 594
-        y: 594
-        width: 99
-        height: 594
+        x: 864
+        y: 630
+        width: 144
+        height: 630
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,20 +309,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9afa0c3e91aca5500800000000000000
-      internalID: 385842930637647785
+      spriteID: bb23985a909fd8a80800000000000000
+      internalID: -8462834304932040005
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BOT UI DamageGauge_7
+      name: BOT UI FuelGauge 1_7
       rect:
         serializedVersion: 2
-        x: 693
-        y: 594
-        width: 99
-        height: 594
+        x: 1008
+        y: 630
+        width: 144
+        height: 630
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -336,41 +330,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 808f01a3164ef2fd0800000000000000
-      internalID: -2364420173109069816
+      spriteID: 89b22f6ddd2df9310800000000000000
+      internalID: 1414080658253425560
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BOT UI DamageGauge_8
-      rect:
-        serializedVersion: 2
-        x: 792
-        y: 594
-        width: 99
-        height: 594
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 132e495b18bd99a30800000000000000
-      internalID: 4222647475780248113
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BOT UI DamageGauge_9
+      name: BOT UI FuelGauge 1_8
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 99
-        height: 594
+        width: 144
+        height: 630
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -378,20 +351,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 056190326feae19e0800000000000000
-      internalID: -1648688041398036912
+      spriteID: edfadd89e08d8add0800000000000000
+      internalID: -2474490438034280482
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BOT UI DamageGauge_10
+      name: BOT UI FuelGauge 1_9
       rect:
         serializedVersion: 2
-        x: 99
+        x: 144
         y: 0
-        width: 99
-        height: 594
+        width: 144
+        height: 630
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -399,20 +372,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea3591747012363d0800000000000000
-      internalID: -3214689393871072338
+      spriteID: 0d96dabd33b8606b0800000000000000
+      internalID: -5330420054101235248
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BOT UI DamageGauge_11
+      name: BOT UI FuelGauge 1_10
       rect:
         serializedVersion: 2
-        x: 198
+        x: 288
         y: 0
-        width: 99
-        height: 594
+        width: 144
+        height: 630
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -420,20 +393,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 026b4214d6eb4ff50800000000000000
-      internalID: 6914360704374191648
+      spriteID: fa3e7c97a7727ff20800000000000000
+      internalID: 3456274646012781487
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BOT UI DamageGauge_12
+      name: BOT UI FuelGauge 1_11
       rect:
         serializedVersion: 2
-        x: 297
+        x: 432
         y: 0
-        width: 99
-        height: 594
+        width: 144
+        height: 630
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -441,20 +414,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a9abba7f16bf9710800000000000000
-      internalID: 1702279430488697251
+      spriteID: ab0d16ec7c562f240800000000000000
+      internalID: 4824030059702636730
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BOT UI DamageGauge_13
+      name: BOT UI FuelGauge 1_12
       rect:
         serializedVersion: 2
-        x: 396
+        x: 576
         y: 0
-        width: 99
-        height: 594
+        width: 144
+        height: 630
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,20 +435,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47ea8c6c4006c7c10800000000000000
-      internalID: 2052621103805279860
+      spriteID: 39c52dfed92277c40800000000000000
+      internalID: 5509910730839841939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BOT UI DamageGauge_14
+      name: BOT UI FuelGauge 1_13
       rect:
         serializedVersion: 2
-        x: 495
+        x: 720
         y: 0
-        width: 99
-        height: 594
+        width: 144
+        height: 630
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -483,29 +456,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69cc78fd3bb865b60800000000000000
-      internalID: 7734523014721031318
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BOT UI DamageGauge_15
-      rect:
-        serializedVersion: 2
-        x: 594
-        y: 0
-        width: 99
-        height: 594
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 03243c9d46f1838c0800000000000000
-      internalID: -4019428149417524688
+      spriteID: 9f669ff44760cc450800000000000000
+      internalID: 6110265891062638329
       vertices: []
       indices: 
       edges: []
