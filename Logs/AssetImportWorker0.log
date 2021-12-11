@@ -110,7 +110,7 @@ Domain Reload Profiling:
 				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (7ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
@@ -139,15 +139,3 @@ Received Import Request.
   path: Assets/Red Squid.prefab
   artifactKey: Guid(dc15590f258bb3e49bf053fafb174b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Red Squid.prefab using Guid(dc15590f258bb3e49bf053fafb174b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c8d10a33f7c7ae825fc5034ca6976d5') in 0.137226 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/bluePufferFish.prefab
-  artifactKey: Guid(10f36a1622c018c4c88068a1121be409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/bluePufferFish.prefab using Guid(10f36a1622c018c4c88068a1121be409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c88ad6be8e59a5927015fb515b785d3d') in 0.069787 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 60.399025 seconds.
-  path: Assets/Fonts/Grunge SDF.asset
-  artifactKey: Guid(9a75aaf82f44f1c408c8319cc57e295d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Fonts/Grunge SDF.asset using Guid(9a75aaf82f44f1c408c8319cc57e295d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c58bd2eaf4ace22a4b5a9160d8bbcce6') in 0.063382 seconds 
