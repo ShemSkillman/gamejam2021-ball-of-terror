@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7630529696519879895}
   - component: {fileID: 7630529696519879894}
   m_Layer: 0
-  m_Name: Fish Splatter
+  m_Name: Fish Splatter Purple
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
