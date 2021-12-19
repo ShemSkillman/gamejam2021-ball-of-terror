@@ -19,4 +19,12 @@ public class GameController : MonoBehaviour
     {
         SceneManager.LoadScene("SampleScene");
     }
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            ReturnToMenu();
+        }
+    }
 }
